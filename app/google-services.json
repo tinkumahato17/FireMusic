@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "483198014134",
+    "firebase_url": "https://firemusic-a8a9c.firebaseio.com",
+    "project_id": "firemusic-a8a9c",
+    "storage_bucket": "firemusic-a8a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483198014134:android:6a06f07cb882eba1178c17",
+        "android_client_info": {
+          "package_name": "in.santiniketan.firemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483198014134-fcrg54gv4qtm73olua9edcgn5phuv2ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.santiniketan.firemusic",
+            "certificate_hash": "2f41f22ac9dd8ccbd78c6264f41b07f6b27fedbc"
+          }
+        },
+        {
+          "client_id": "483198014134-1lii3fn7fdqtpalkeq22v0k0rtgrngco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXqX8lmO8Lv9p7rvP8EWZTWVdMQiKfiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483198014134-1lii3fn7fdqtpalkeq22v0k0rtgrngco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
